@@ -1,0 +1,17 @@
+.labelClassName{
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    margin-top: 25%;
+    margin-left: 25%;
+}
+.dashboardTable{
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 80%;
+    height: 100%;
+}
+.mainClassLogintable{
+    background-image: linear-gradient(#1288EF, #AABECE);
+    width: 100%;
+}

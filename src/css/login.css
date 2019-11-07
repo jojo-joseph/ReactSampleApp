@@ -1,0 +1,51 @@
+.mainClassLogin{
+    background-image: linear-gradient(#1288EF, #AABECE);
+    width: 100%;
+    height: 803px;
+}
+.mainDivBox{
+    height: 400px;
+    width: 40%;
+    position: absolute;
+    margin-left: 30%;
+   margin-top: 10%;
+    background-image: linear-gradient(#168FF9, #EAEFF4);
+    border: 1px solid #5993c5;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
+.leftSideDiv{
+    width: 50%;
+    position: absolute;
+}
+.LoginPagebackground{
+    width: 100%;
+    height: 400px;
+}
+.rightSideDiv{
+    width: 50%;
+    margin-left: 50%;
+    position: absolute;
+}
+.rightSideLabel{
+    margin-left: 25%;
+    margin-top: 25%;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    position: absolute; 
+}
+.userNameDiv{
+    margin-top: 40%;
+    margin-left: 20%;
+}
+.userNameTextField{
+   margin-left: 2%;
+}
+.loginButton{
+    margin-top: 15%;
+}
+.butonDivNew{
+    margin-top: 10%;
+    margin-left: 30%;
+}
